@@ -1,0 +1,17 @@
+C:\Users\stud\source\repos\ZiminLab2Work1\ZiminLab2Work1\bin\Debug\net6.0-windows\ZiminLab2Work1.exe
+C:\Users\stud\source\repos\ZiminLab2Work1\ZiminLab2Work1\bin\Debug\net6.0-windows\ZiminLab2Work1.deps.json
+C:\Users\stud\source\repos\ZiminLab2Work1\ZiminLab2Work1\bin\Debug\net6.0-windows\ZiminLab2Work1.runtimeconfig.json
+C:\Users\stud\source\repos\ZiminLab2Work1\ZiminLab2Work1\bin\Debug\net6.0-windows\ZiminLab2Work1.dll
+C:\Users\stud\source\repos\ZiminLab2Work1\ZiminLab2Work1\bin\Debug\net6.0-windows\ZiminLab2Work1.pdb
+C:\Users\stud\source\repos\ZiminLab2Work1\ZiminLab2Work1\obj\Debug\net6.0-windows\ZiminLab2Work1.csproj.AssemblyReference.cache
+C:\Users\stud\source\repos\ZiminLab2Work1\ZiminLab2Work1\obj\Debug\net6.0-windows\ZiminLab2Work1.Form1.resources
+C:\Users\stud\source\repos\ZiminLab2Work1\ZiminLab2Work1\obj\Debug\net6.0-windows\ZiminLab2Work1.csproj.GenerateResource.cache
+C:\Users\stud\source\repos\ZiminLab2Work1\ZiminLab2Work1\obj\Debug\net6.0-windows\ZiminLab2Work1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\source\repos\ZiminLab2Work1\ZiminLab2Work1\obj\Debug\net6.0-windows\ZiminLab2Work1.AssemblyInfoInputs.cache
+C:\Users\stud\source\repos\ZiminLab2Work1\ZiminLab2Work1\obj\Debug\net6.0-windows\ZiminLab2Work1.AssemblyInfo.cs
+C:\Users\stud\source\repos\ZiminLab2Work1\ZiminLab2Work1\obj\Debug\net6.0-windows\ZiminLab2Work1.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\ZiminLab2Work1\ZiminLab2Work1\obj\Debug\net6.0-windows\ZiminLab2Work1.dll
+C:\Users\stud\source\repos\ZiminLab2Work1\ZiminLab2Work1\obj\Debug\net6.0-windows\refint\ZiminLab2Work1.dll
+C:\Users\stud\source\repos\ZiminLab2Work1\ZiminLab2Work1\obj\Debug\net6.0-windows\ZiminLab2Work1.pdb
+C:\Users\stud\source\repos\ZiminLab2Work1\ZiminLab2Work1\obj\Debug\net6.0-windows\ZiminLab2Work1.genruntimeconfig.cache
+C:\Users\stud\source\repos\ZiminLab2Work1\ZiminLab2Work1\obj\Debug\net6.0-windows\ref\ZiminLab2Work1.dll
