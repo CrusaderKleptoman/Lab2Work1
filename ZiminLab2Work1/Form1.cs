@@ -44,8 +44,9 @@ namespace ZiminLab2Work1
             Properties.Settings.Default.trainMinDep = trainMinDep;
             Properties.Settings.Default.passHourArrive = passHourArrive;
             Properties.Settings.Default.passMinArrive = passMinArrive;
+            Properties.Settings.Default.Save();
 
-            var timeTrainArrival = Logic.GetTime(trainHourArrive, trainMinArrive);
+               var timeTrainArrival = Logic.GetTime(trainHourArrive, trainMinArrive);
             var timeTrainDeparture = Logic.GetTime(trainHourDep,trainMinDep);
             var timePasArrive = Logic.GetTime(passHourArrive, passMinArrive);
 
